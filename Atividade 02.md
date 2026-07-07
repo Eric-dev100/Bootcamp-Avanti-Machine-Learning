@@ -141,5 +141,3 @@ df_limpo = df.dropna()
 df['Coluna'] = df['Coluna'].fillna(df['Coluna'].median())
 
 ```
-
-```
